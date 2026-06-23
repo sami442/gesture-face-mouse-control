@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## 🎥 Live Demo
-👉 [**Watch Demo Video**](https://www.loom.com/share/734671c6fdbf4e7ea253a3eee982ccb4)
+👉 [**Watch Demo Video**])
 
 ## 📌 Overview
 A real-time computer vision application that lets you control your 
